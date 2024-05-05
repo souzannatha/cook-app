@@ -25,4 +25,5 @@ export const styles = StyleSheet.create({
     borderColor: theme.colors.green_600,
     backgroundColor: theme.colors.green_100,
   },
+  image: { width: 16, height: 16 },
 });
